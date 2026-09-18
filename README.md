@@ -14,7 +14,7 @@ Cartelle presenti nella root (basate sui nomi, senza garanzia sul contenuto inte
 
 | Cartella | Area presunta |
 |---|---|
-| `ClientEsercizio2C_belluccià` | Esercizio client (probabilmente client-server), variante "bellucci" |
+| `ClientEsercizio2C_belluccià` | Esercizio client (client-server), variante "bellucci" |
 | `CommunicationLibrary` | Libreria riutilizzabile per la comunicazione di rete |
 | `CommunicationLibrary2_meaven` | Seconda versione/variante della libreria di comunicazione |
 | `EsempioMinimale_2_server_comunicanti` | Esempio minimale di due server che comunicano tra loro |
@@ -25,7 +25,7 @@ Cartelle presenti nella root (basate sui nomi, senza garanzia sul contenuto inte
 | `cinema__2` | Seconda versione dell'esercizio cinema |
 | `es_2_3_c_s` | Esercizio client-server (c_s) |
 | `es_4date _s/es_4_server` | Esercizio con gestione date, lato server |
-| `es_9_5_cam_pll` | Esercizio (probabilmente con webcam/camera, dato "cam") |
+| `es_9_5_cam_pll` | Esercizio (con webcam/camera, dato "cam") |
 | `es_9_5_finito` | Versione completata di un esercizio della serie 9.5 |
 | `librerie_fine_5/ConvertXJ` | Libreria di conversione JSON/XML, versione finale |
 | `life_es` | Esercizio (possibilmente ispirato al "Game of Life") |
@@ -46,7 +46,7 @@ Archivi `.zip` presenti nella root, **non ancora estratti**:
 
 - **Java** (linguaggio principale)
 - **Socket TCP/UDP** per la comunicazione client-server
-- **Java Swing/AWT** (presunto, per le interfacce a "form" menzionate nella descrizione)
+- **Java Swing/AWT** (per le interfacce a "form" menzionate nella descrizione)
 - **JSON / XML** per la serializzazione e conversione dati
 - **Multithreading** (Java Thread API)
 
