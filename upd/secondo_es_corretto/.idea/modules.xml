@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UdpClient/UdpClient.iml" filepath="$PROJECT_DIR$/UdpClient/UdpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdpServer/UdpServer.iml" filepath="$PROJECT_DIR$/UdpServer/UdpServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/secondo_es_corretto.iml" filepath="$PROJECT_DIR$/.idea/secondo_es_corretto.iml" />
+    </modules>
+  </component>
+</project>

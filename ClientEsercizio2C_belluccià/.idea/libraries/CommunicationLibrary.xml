@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CommunicationLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/ClientEsercizio2C_belluccià/ClientEsercizio2C/lib/CommunicationLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+io\Reader.class
+io\Reader$InternalReader.class
+io\Sender.class
+io\IMessageConsumer.class

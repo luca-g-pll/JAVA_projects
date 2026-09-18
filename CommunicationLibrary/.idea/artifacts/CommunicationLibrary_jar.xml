@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CommunicationLibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommunicationLibrary_jar</output-path>
+    <root id="archive" name="CommunicationLibrary.jar">
+      <element id="module-output" name="CommunicationLibrary" />
+    </root>
+  </artifact>
+</component>

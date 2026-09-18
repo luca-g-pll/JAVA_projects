@@ -1,0 +1,13 @@
+per il js :
+
+//lavoro su una matrice di numeri, lavoro su una randomica generazione, nasce se intorno intorno ha 3 celle "vive", se intorno sono minori di 2 o maggiori di 3 muore
+// es. se deve moririe gli do il valore 2, cosi per controllare se nascono i controllo tutto, successivamente gli do 0, poi qua
+//tutti quelli con 2 muoiono, 3 divent 1 = che rimane, cambiando per ogni generazione
+//es. for(i) for(j) if matr[i][j]== 1 {cambio colore}. --> inizializzo la matrice in modo globale
+//j = rappresenta la y i = x nella tabella, creo la tabella facendo colonna --> tutta la riga --> colonna successiva cambiando la lontananza da su facendo la riga
+//la matrice la faccio dimensionata di più in uno per ogni lato, cosi da non sbordare e lavoro poi da 1 - lenght-1, le altre saranno sempre a 0 per far si che non sbordo con i valori
+//devo avere una funzione per reset --> disporre in modo casuale le caselle colorate tramite l'algoritmo e una per rappresetnare graficacmente la matrice
+
+
+    
+//cambia il colore delle caselle senza ristampare l'intera tabella --> potrei usare classList.add/remove("classe");

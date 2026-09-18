@@ -1,0 +1,17 @@
+edu/avo/convertxj/ConvertXJ.class
+edu/avo/convertxj/xml/LocalDateAdapter.class
+edu/avo/convertxj/xml/MapEntry.class
+edu/avo/convertxj/bo/Studente.class
+edu/avo/convertxj/json/JSONUtility.class
+edu/avo/convertxj/xml/MapAdapter.class
+edu/avo/convertxj/xml/ProxyXInsegnante.class
+edu/avo/convertxj/json/ProxyJInsegnante.class
+edu/avo/convertxj/bo/Voto.class
+edu/avo/convertxj/xml/ProxyList.class
+edu/avo/convertxj/xml/MapList.class
+edu/avo/convertxj/bo/Insegnante.class
+edu/avo/convertxj/xml/ProxyXVoto.class
+edu/avo/convertxj/json/ProxyJVoto.class
+edu/avo/convertxj/json/ProxyJStudente.class
+edu/avo/convertxj/xml/ProxyXStudente.class
+edu/avo/convertxj/xml/XMLUtility.class

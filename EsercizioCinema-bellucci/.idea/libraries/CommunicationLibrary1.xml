@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CommunicationLibrary1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/cinema/lib/CommunicationLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
